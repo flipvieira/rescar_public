@@ -1,0 +1,12 @@
+/shelf/
+/workspace.xml
+
+.idea/
+
+/data/
+/tests/
+
+.venv/
+
+__pycache__/
+*.pyc
